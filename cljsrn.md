@@ -4,14 +4,19 @@
 
 <div>
 
-* React Native – https://reactnative.dev
-* Expo – https://expo.io
 * ClojureScript - https://clojurescript.org
+    * It's Clojure, on the Javascript VM
 * Reagent – https://reagent-project.github.io
+    * Wrapping parts of React
     * Evolution of ReactJS + Reagent (2013 - 2021) – https://www.youtube.com/watch?v=pd8kWJVDQD4
 * Re-frame – https://day8.github.io/re-frame/
+    * Similar to Redux
+    * Inspired by the Elm _model update view_ pattern
 * shadow-cljs – http://shadow-cljs.org
-* A template – https://github.com/PEZ/rn-rf-shadow
+    * Utilizing `defonce`
+* An App Template – https://github.com/PEZ/rn-rf-shadow
+    * React Native – https://reactnative.dev
+    * Expo – https://expo.io
 
 </div>
 
@@ -21,7 +26,7 @@
 
 ![](cljs.png)
 
-<div style="width: 40px;">&nbsp;</div>
+<div style="width: 50px;">&nbsp;</div>
 
 ![](shadow-cljs.png)
 
@@ -33,4 +38,4 @@
 
 ---
 
-[Start](hello.md) > [Clojure](clojure.md) > [Calva](calva.md) > [ClojureScript](cljsrn.md) > [Moar?](moar.md)
+[Start](hello.md) > [Clojure](clojure.md) > [REPL](repl.md) > [Calva](calva.md) > [ClojureScript](cljsrn.md) > [Moar?](moar.md)

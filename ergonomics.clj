@@ -1,4 +1,4 @@
-(ns duplicates
+(ns ergonomics
   (:require [clojure.string :as string]))
 
 ;; https://edabit.com/challenge/WS6hR6b9EZzuDTD26
