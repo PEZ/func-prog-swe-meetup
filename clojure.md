@@ -9,24 +9,25 @@
   <div style="display: flex; flex: 5;">
     <div>
 
-* Practical and Pragmatic 
+* A LISP
+    * Practical and Pragmatic 
 * **Interactive Programming**
 * Hosted Language
     * JVM
     * JavaScript VM (ClojureScript)
     * CLR
 * Data Oriented
+    * Rich Data Types
 * Functional First
 * Immutable by default
     * Value Semantics
     * Thread Safety
+* `nil` safety
 * Sequence Abstraction
     * Lazyness
-* `nil` safety
-* Rich Data Types
 * Rich Standard Library (Clojure Core)
     * Stable API:s 
-* Grows through Libraries
+* Grows by Libraries
     * Do one thing – do it well
     * Stable API:s (cultural heritage)
     * Few frameworks
@@ -34,8 +35,15 @@
     * Macros Deluxe
     * Structural Code (((((♥️)))))
     * Enables structural editing
-* Active development
-* Engagaged++ community, supported by the creators of Clojure (Cognitect)
+
+### Here to Stay
+* Active development, Cognitect (Nubank)
+* Engagaged++ community
+    * Cognitect taking part
+* Thriving open source community
+    * Funded by the community
+    * Funded by dependent businesses
+    * Funded by Cognitect
 
     </div>
   </div>

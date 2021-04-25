@@ -6,20 +6,27 @@
 <div style="display: flex; flex-direction: row; justify-content: space-between; height: 84%; overflow-y: auto;">
 
   <div style="display: flex; flex-direction: column; flex: 3;">
-My favorites: VS Code and Clojure
 
-Calva was released March 16 2018  🎉
+Released March 16 2018  🎉
 
-* Actively developed. Bus Factor: 2
-* Connects the editor to the running application's REPL - **Interactive programming**
+## My favorites: VS Code and Clojure
+
+
+* Actively developed
+  * Peter Strömberg
+  * Brandon Ringe
+* **Interactive programming**
+  * Connects the editor to the running application's REPL 
   * Custom REPL-commands
-* Structural editing
+* **Structural editing** {([(((♥️)))])}
 * Syntax highlight
   * Rainbow 🌈 brackets and vertical guides
   * Structural comments
 * Formatting
 * Pretty printing
-* Code documentation and navigation - including libraries, including Java
+* Code documentation and navigation
+  * Including libraries
+  * Including Java
 * Debugger
 * Test runner
 * Linter

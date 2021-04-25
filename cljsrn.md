@@ -7,7 +7,7 @@
 * ClojureScript - https://clojurescript.org
     * It's Clojure, on the Javascript VM
 * Reagent – https://reagent-project.github.io
-    * Wrapping parts of React
+    * Wrapping (parts of) React
     * Evolution of ReactJS + Reagent (2013 - 2021) – https://www.youtube.com/watch?v=pd8kWJVDQD4
 * Re-frame – https://day8.github.io/re-frame/
     * Similar to Redux

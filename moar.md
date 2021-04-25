@@ -21,7 +21,7 @@ https://github.com/PEZ/func-prog-swe-meetup
     * http://clojurians.net
     * https://www.reddit.com/r/Clojure/
 
-### Clojurian JS
+### Clojure-ish JS
 
 * RamdaJS: https://ramdajs.com
 
@@ -43,4 +43,4 @@ https://github.com/PEZ/func-prog-swe-meetup
 
 ---
 
-[Start](hello.md) > [Clojure](clojure.md) > [Calva](calva.md) > [ClojureScript](cljsrn.md) > [Moar?](moar.md)
+[Start](hello.md) > [Clojure](clojure.md) > [REPL](repl.md) > [Calva](calva.md) > [ClojureScript](cljsrn.md) > [Moar?](moar.md)

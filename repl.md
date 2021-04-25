@@ -7,10 +7,11 @@
 ## Interactive Programming
 
 * Connected to the running app
-  * Plugged in to you editor
-* Modify the app as it is running
-* Develop and test each building block
+  * Modify the app as it is running
+  * Develop and test each building block
+    * Iterate
   * No restarting
+  * Plugged in to you editor
 
   </div>
   <div style="display: flex; flex: 2; flex-direction: column; justify-content: space-between;">
