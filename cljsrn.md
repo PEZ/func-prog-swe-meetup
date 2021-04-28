@@ -13,7 +13,8 @@
     * Similar to Redux
     * Inspired by the Elm _model update view_ pattern
 * shadow-cljs – http://shadow-cljs.org
-    * Utilizing `defonce`
+    * Compiles CLojureScript to JavaScript
+    * Hot Reload Deluxe
 * An App Template – https://github.com/PEZ/rn-rf-shadow
     * React Native – https://reactnative.dev
     * Expo – https://expo.io
