@@ -43,4 +43,4 @@ https://github.com/PEZ/func-prog-swe-meetup
 
 ---
 
-[Start](hello.md) > [Clojure](clojure.md) > [REPL](repl.md) > [Calva](calva.md) > [ClojureScript](cljsrn.md) > [Moar?](moar.md)
+[Start](hello.md) > [Clojure](clojure.md) > [REPL](repl.md) > [Calva](calva.md) > [ClojureScript](cljsrn.md) > [Further](moar.md)

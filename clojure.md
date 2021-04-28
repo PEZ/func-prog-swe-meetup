@@ -6,7 +6,7 @@
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; height: 76%; overflow-y: auto; ">
 
-  <div style="display: flex; flex: 5;">
+  <div style="display: flex; flex: 8;">
     <div>
 
 * A LISP
@@ -17,11 +17,11 @@
     * JavaScript VM (ClojureScript)
     * CLR
 * Data Oriented
-    * Rich Data Types
-* Functional First
-* Immutable by default
-    * Value Semantics
-    * Thread Safety
+    * Functional First
+    * Immutable by default
+        * Value Semantics
+        * Thread Safety
+    * Rich Literal Data Types
 * `nil` safety
 * Sequence Abstraction
     * Lazyness
@@ -30,7 +30,6 @@
 * Grows by Libraries
     * Do one thing – do it well
     * Stable API:s (cultural heritage)
-    * Few frameworks
 * Code is data/homoiconicity
     * Macros Deluxe
     * Structural Code (((((♥️)))))
@@ -43,7 +42,7 @@
 * Thriving open source community
     * Funded by the community
     * Funded by dependent businesses
-    * Funded by Cognitect
+    * Funded by Cognitect <br>https://www.cognitect.com/blog/2020/12/15/sponsoring-open-source-developers
 
     </div>
   </div>
@@ -59,4 +58,4 @@
 
 ---
 
-[Start](hello.md) > [Clojure](clojure.md) > [REPL](repl.md) > [Calva](calva.md) > [ClojureScript](cljsrn.md) > [Moar?](moar.md)
+[Start](hello.md) > [Clojure](clojure.md) > [REPL](repl.md) > [Calva](calva.md) > [ClojureScript](cljsrn.md) > [Further](moar.md)

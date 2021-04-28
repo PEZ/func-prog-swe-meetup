@@ -19,6 +19,8 @@ Released March 16 2018  🎉
   * Connects the editor to the running application's REPL 
   * Custom REPL-commands
 * **Structural editing** {([(((♥️)))])}
+* **Getting Started REPL** <br> https://calva.io/getting-started
+  * Unique for Calva 
 * Syntax highlight
   * Rainbow 🌈 brackets and vertical guides
   * Structural comments
@@ -31,7 +33,6 @@ Released March 16 2018  🎉
 * Test runner
 * Linter
 * Refactoring
-* Unique for Calva: Getting Started REPL – https://calva.io/getting-started
 
   </div>
   <div style="display: flex; flex: 4; flex-direction: column; position: sticky; top: 0;">
@@ -43,4 +44,4 @@ Released March 16 2018  🎉
 
 ---
 
-[Start](hello.md) > [Clojure](clojure.md) > [REPL](repl.md) > [Calva](calva.md) > [ClojureScript](cljsrn.md) > [Moar?](moar.md)
+[Start](hello.md) > [Clojure](clojure.md) > [REPL](repl.md) > [Calva](calva.md) > [ClojureScript](cljsrn.md) > [Further](moar.md)

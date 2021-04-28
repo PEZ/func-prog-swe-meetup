@@ -7,11 +7,11 @@
 ## Interactive Programming
 
 * Connected to the running app
-  * Modify the app as it is running
-  * Develop and test each building block
-    * Iterate
-  * No restarting
-  * Plugged in to you editor
+* Plugged in to you editor
+* Modify the app as it is running
+* Develop and test each building block
+  * Iterate
+* No restarting
 
   </div>
   <div style="display: flex; flex: 2; flex-direction: column; justify-content: space-between;">
@@ -26,4 +26,4 @@
 
 ---
 
-[Start](hello.md) > [Clojure](clojure.md) > [REPL](repl.md) > [Calva](calva.md) > [ClojureScript](cljsrn.md) > [Moar?](moar.md)
+[Start](hello.md) > [Clojure](clojure.md) > [REPL](repl.md) > [Calva](calva.md) > [ClojureScript](cljsrn.md) > [Further](moar.md)
